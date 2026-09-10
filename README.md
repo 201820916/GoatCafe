@@ -5,4 +5,4 @@ Original Repository:
 HyunL31/GoatCafe
 
 ## 담당 기능
-- 미니게임 관련 기능 구현
+- 밤 시간 미니게임 관련 기능 구현
